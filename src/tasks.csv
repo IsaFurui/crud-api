@@ -1,0 +1,8 @@
+title;description
+Estudar TypeScript;Revisar conceitos básicos de tipos interfaces e enums
+Criar API de tarefas;Desenvolver uma API CRUD de tarefas usando Node.js e Express
+Aprender csv-parse;Entender como importar arquivos CSV usando a biblioteca csv-parse
+Organizar backlog;Separar e priorizar as tarefas do projeto atual
+Refatorar código;Melhorar a legibilidade e organização do código existente
+Implementar autenticação;Adicionar login e controle de acesso na aplicação
+Testar funcionalidades;Escrever testes unitários para as principais rotas da API
